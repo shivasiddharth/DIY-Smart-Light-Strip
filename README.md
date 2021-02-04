@@ -2,12 +2,12 @@
  Its hard to combine both Amazon Alexa and Google Assistant control for a DIY project and that too for free. Thanks to Supla, who have both a Google Assistant app and an Amazon Alexa skill, it was feasible to add smartness to an otherwise dumb light strip.
 
 ## Components and Tools
-1. Terminal Blocks http://ebay.us/YO7Zha    
+1. Terminal Blocks http://ebay.us/YO7Zha   
 2. Wemos D1 Mini http://ebay.us/Tzvi4Q    
-3. SMD 5050 RGBWW LED Strip http://ebay.us/Tzvi4Q   
-4. PCB http://ebay.us/Tzvi4Q   
-5. DC-DC Step Down Converter http://ebay.us/Tzvi4Q   
-6. IRF540N Mosfet http://ebay.us/tiUWHJ   
+3. SMD 5050 RGBWW LED Strip http://ebay.us/APG8W6 or http://ebay.us/4Y0UBK    
+4. PCB http://ebay.us/ujStHB     
+5. DC-DC Step Down Converter http://ebay.us/EU2Xd5    
+6. IRF540N Mosfet http://ebay.us/tiUWHJ      
 7. Wires  
 8. Solder iron.  
 9. Lead free solder wire.   
